@@ -1,1 +1,94 @@
-
+{
+  "products": [
+    {
+      "file": "./images/hmgoepprod.jpg",
+      "name": "T shirt",
+      "description": "Made in Egypt, size: L",
+      "price": "100",
+      "count": 0,
+      "isInCart": false,
+      "id": 2
+    },
+    {
+      "name": "Pants",
+      "description": "Made in Egypt, size: M",
+      "price": "150",
+      "file": "./images/download.jpg",
+      "count": 0,
+      "isInCart": false,
+      "id": 4
+    },
+    {
+      "file": "./images/jacket.jpg",
+      "description": "Made in Egypt, size: XL",
+      "name": "Jacket",
+      "price": "250",
+      "count": 0,
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "id": 17,
+      "name": "Skirt",
+      "description": "Made in Egypt, size: L",
+      "price": "150",
+      "file": "./images/skirt.jpg",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 13,
+      "name": "Watch",
+      "description": "Made in Egypt, Brand: xx",
+      "price": "300",
+      "file": "./images/watch.jpg",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 14,
+      "name": "Nechlace",
+      "description": "Gold:21",
+      "price": "250",
+      "file": "./images/nechlace.jpg",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 15,
+      "name": "Ring",
+      "description": "Gold:18",
+      "price": "175",
+      "file": "./images/ring.jpg",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "name": "sunglasses",
+      "description": "Made in Egypt, Brand: xx",
+      "price": "100",
+      "file": "./images/glasses.jpg",
+      "count": 0,
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "file": "blob:http://localhost:3001/0d971ee2-9187-4101-a2ed-604f49e890b4",
+      "name": "Shoes",
+      "description": "Made in Egypt, Size: 39",
+      "price": "100",
+      "count": 0,
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "file": "blob:http://localhost:3001/152bc0ce-e8b3-44d6-8e65-81d73e73129e",
+      "name": "Bag",
+      "description": "Made in Egypt, Brand: x",
+      "price": "100",
+      "count": 0,
+      "isInCart": false,
+      "id": 19
+    }
+  ]
+}
