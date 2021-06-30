@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+h1{
+    /* margin: 5% 30% 5% 20%; */
+    align-content: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
